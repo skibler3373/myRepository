@@ -1,5 +1,6 @@
 # myRepository
-Projects: Space Station Site.  Movie theater site.
+Projects:      Space Station Site.  
+               Movie theater site.
 
 
 Space Station site- This page is an example of a home page for  space station travel company. Its styles using css and contains a navbar, image containers, and a form.
